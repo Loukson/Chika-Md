@@ -52,7 +52,7 @@ global.sessionName = 'session'
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 7,
 }
 
 //—————「 Set Image 」—————//
@@ -91,7 +91,7 @@ private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot_',
 wait: '_Sedang Di Proses..._',
 error: '_Fitur Sedang Error!_',
-endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
+endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12 atau gunakan premium untuk akses unlimited. Hubungi wa 085668888189_',
 }
 
 //—————「 Batas Akhir 」—————//
