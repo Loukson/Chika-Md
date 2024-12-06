@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6285668888189','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6285668888189'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6285668888189' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['22502331988','22502331988','22502331988'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['22502331988'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '22502331988' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'nelson.oxm007' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Ns_Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'NsPro' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '༒⊟༺𝙻𝙾𝚄𝙺𝚂𝙾𝙽 𝚄𝚉𝚄𝙼𝙰𝙺𝙸༻⊟༒' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'NARUTO-MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '༒⊟༺𝙻𝙾𝚄𝙺𝚂𝙾𝙽 𝚄𝚉𝚄𝙼𝙰𝙺𝙸༻⊟༒' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -41,8 +41,8 @@ global.email = 'nelsonsilitonga6@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Ns_Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'NsPro' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© ༒⊟༺𝙻𝙾𝚄𝙺𝚂𝙾𝙽 𝚄𝚉𝚄𝙼𝙰𝙺𝙸༻⊟༒' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = '༒⊟༺𝙻𝙾𝚄𝙺𝚂𝙾𝙽 𝚄𝚉𝚄𝙼𝙰𝙺𝙸༻⊟༒' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -73,7 +73,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //—————「 Set Prefix 」—————//
 //gausah di apa² in!
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🍥','🍃']
 
 //—————「 Set Simbol 」—————//
 //terserah mai ubah atau nggak, note : tanda ' gausah di hapus!
